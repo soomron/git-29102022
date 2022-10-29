@@ -1,3 +1,5 @@
 This is the first edit of 1.txt file in u1 folder
+HEAD
 This is my second edit of 1.txt in u1 folder
+This is the second edit of 1.txt file in u2 folder
 

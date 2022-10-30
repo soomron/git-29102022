@@ -1,1 +1,4 @@
 This is the first edit of dummy1.txt file in u2 using branch 1 'b1'
+
+This is the second edit of dummy1.txt file in the u2 folder using branch 2 'b1'
+N.B. There is an error in the folder name in the first edit. u2 should be u1!
